@@ -1,0 +1,15 @@
+{
+    "folder": "MOBY",
+    "separator": "=",
+    "prompt": "INPUT SENTENCE SCAFFOLDING >",
+    "binds": {
+        "noun": "*",
+        "adjective": "#",
+        "verb": "^",
+        "adverb": "?",
+        "preposition": "@",
+        "name": "!",
+        "CARRIAGE_RETURN": "~",
+        "NEW_LINE": "+"
+    }
+}

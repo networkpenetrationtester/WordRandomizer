@@ -1,0 +1,11 @@
+{
+  "name": "word-randomizer",
+  "version": "1.0.0",
+  "description": "If you even care, take a read inside config.json, these symbols are to be typed with an escape sequence;\r I.e. if your settings are",
+  "main": "index-v2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neo@7.7.2.96",
+  "license": "ISC"
+}
